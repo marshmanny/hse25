@@ -21,7 +21,7 @@
   image: photos/ds.jpeg
 - name: Михаил Конобеев
   role: Ассистент
-  image: photos/rus.jpeg
+  image: photos/mk.jpeg
 - name: Анна Петрова
   role: Ассистент
   image: photos/ap.jpeg
@@ -32,8 +32,8 @@
   role: Ассистент
   image: photos/el.jpeg
 - name: Мария Розаева
-  role: Ассистент
+  role: Ассистентка
   image: photos/mr.jpeg
 - name: Юрий Пустовалов
   role: Ассистент
-  image: photos/rus.jpeg
+  image: photos/yp.jpeg
