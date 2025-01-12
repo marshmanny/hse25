@@ -1,0 +1,39 @@
+- name: Даниил Меркулов
+  role: Преподаватель
+  image: photos/dm.jpeg
+- name: Петр Остроухов
+  role: Семинарист
+  image: photos/po.jpeg
+- name: Илья Забара
+  role: Семинарист
+  image: photos/iz.jpeg
+- name: Мария Медведева
+  role: Семинарист
+  image: photos/mm.jpeg
+- name: Ян Максимов
+  role: Семинарист
+  image: photos/ym.jpeg
+- name: Максим Шуклин
+  role: Ассистент
+  image: photos/ms.jpeg
+- name: Динар Саберов
+  role: Ассистент
+  image: photos/rus.jpeg
+- name: Михаил Конобеев
+  role: Ассистент
+  image: photos/rus.jpeg
+- name: Анна Петрова
+  role: Ассистент
+  image: photos/ap.jpeg
+- name: Кирилл Королев
+  role: Ассистент
+  image: photos/kk.jpeg
+- name: Елена Лыкова
+  role: Ассистент
+  image: photos/el.jpeg
+- name: Мария Розаева
+  role: Ассистент
+  image: photos/mr.jpeg
+- name: Юрий Пустовалов
+  role: Ассистент
+  image: photos/rus.jpeg
