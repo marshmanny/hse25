@@ -3,8 +3,8 @@
   materials: /lectures/1.pdf
   notes: /notes/1.pdf
   seminar: /seminars/1.pdf
-  youtube:
-  download:
+  youtube: https://youtu.be/2vmEnYb7-WM
+  download: https://disk.yandex.com/i/URBOHMuI_9ADVg
 
 - title: Одномерная оптимизация. Неточная одномерная оптимизация. Градиент. Гессиан. Матрично-векторное дифференцирование.
   number: 2
