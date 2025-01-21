@@ -11,8 +11,8 @@
   materials: /lectures/2.pdf
   notes: /notes/2.pdf
   seminar: /seminars/2.pdf
-  youtube:
-  download:
+  youtube: https://youtu.be/kTAeeZP-JBQ
+  download: https://disk.yandex.com/i/cWMKllG2NR-L0Q
 
 - title: Автоматическое дифференцирование. Вычислительный граф.
   number: 3
