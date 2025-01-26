@@ -13,6 +13,9 @@
 - name: Ян Максимов
   role: Семинарист
   image: photos/ym.jpeg
+- name: Андрей Игнатов
+  role: Ассистент
+  image: photos/ai.jpeg
 - name: Максим Шуклин
   role: Ассистент
   image: photos/ms.jpeg
@@ -37,3 +40,4 @@
 - name: Юрий Пустовалов
   role: Ассистент
   image: photos/yp.jpeg
+
