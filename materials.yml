@@ -22,13 +22,13 @@
   youtube: https://youtu.be/xVjwJbbEP8U
   download: https://disk.yandex.com/i/pK-h538HZlWJow
 
-- title: Выпуклость. Выпуклые множества. Выпуклые функции. Неравенство Йенсена. Сильно выпуклые функции. Условие Поляка - Лоясиевича. Выпуклость нейронных сетей.
+- title: Выпуклость. Выпуклые множества. Выпуклые функции. Неравенство Йенсена. Сильно выпуклые функции. Условие Поляка - Лоясиевича. Минимумы линейных нейронных сетей.
   number: 4
   materials: /lectures/4.pdf
   seminar: /seminars/4.pdf
   notes: /notes/4.pdf
-  youtube:
-  download:
+  youtube: https://youtu.be/I9aAv9AExsU
+  download: https://disk.yandex.com/i/r6tGt4Bn-ZcRlQ
 
 - title: Условия оптимальности. Функция Лагранжа. Задачи с ограничениями-равенствами. Задачи с ограничениями-равенствами. Теорема Каруша - Куна - Таккера.
   number: 5
